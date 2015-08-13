@@ -1,0 +1,6 @@
+[submodule "JarInfoSpitter"]
+	path = JarInfoSpitter
+	url = https://github.com/moljac/Xamarin.Tools.XamarinAndroid.Bindings.Tools.JarInfoSpitter.git
+[submodule "ApiXmlSpitter"]
+	path = ApiXmlSpitter
+	url = https://github.com/moljac/HolisticWare.Xamarin.Tools.XamarinAndroid.Bindings.Tools.ApiXmlSpitter.git
